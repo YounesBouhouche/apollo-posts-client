@@ -104,7 +104,8 @@ src/
 │   ├── create.tsx          # Create post page
 │   └── post.$postId.tsx    # Individual post page
 ├── utils/              # Utility functions
-│   └── queries.tsx         # GraphQL queries
+│   ├── queries.tsx         # GraphQL queries
+│   └── mutations.tsx       # GraphQL mutations
 ├── App.tsx             # Main App component
 ├── App.css             # Global styles & animations
 └── main.tsx            # Application entry point
