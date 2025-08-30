@@ -52,7 +52,7 @@ A modern, beautiful web application showcasing the power of Apollo Client, Graph
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/YounesBouhouche/apollo-posts-client"
    cd learn-apollo-client
    ```
 
